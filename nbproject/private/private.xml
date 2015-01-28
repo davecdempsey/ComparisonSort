@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/daviddempsey/Documents/Projects/NetBeans/ComparisonSort/src/ComparisonBasedSorting/ComparisonBasedSorting.java</file>
+        <file>file:/Users/daviddempsey/Documents/Projects/NetBeans/ComparisonSort/src/ComparisonBasedSorting/HeapSort.java</file>
+        <file>file:/Users/daviddempsey/Documents/Projects/NetBeans/ComparisonSort/src/ComparisonBasedSorting/MergeSort.java</file>
+    </open-files>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/davidcdempsey/Documents/Projects/NetBeansProjects/ComparisonBasedSorting/src/ComparisonBasedSorting/HeapSort.java</file>
